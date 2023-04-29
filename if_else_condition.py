@@ -1,4 +1,4 @@
-Age = 15
+Age = 19
 
 if Age >=18 :
     print("you can drink alchol")
